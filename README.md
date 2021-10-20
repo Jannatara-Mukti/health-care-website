@@ -1,6 +1,6 @@
 # DOC_CITY (Welcome to Our DOC_CITY)
 
-This project is bootstrapped with [Create React App](https://doccity-47e1d.web.app/).
+This project is bootstrapped with [Hello, DOC_CITY](https://doccity-47e1d.web.app/).
 
 We at Doc_City, the greatest hospital in history, welcome you to visit us. With a warm heart, Our Specialists are ready to ovation you. We are ensuring that you can get the best treatment from here. This Website of Doc_city is authorized by its chairman board.
 You can give a virtual visit to Doc_City through this website.
