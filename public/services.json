@@ -1,0 +1,50 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Emergency Care",
+        "description": "Human health is one of the most important factors influencing economic development in any economy. Most important and immediate consequences of environmental degradation in the world take the form of damage to human health.",
+        "img": "https://i.ibb.co/JcKDkyX/pexels-charliehelen-robinson-4531304-300x300.jpg",
+        "price": 900
+
+    },
+    {
+        "id": 2,
+        "name": "Operation Theater",
+        "description": "Human health is one of the most important factors influencing economic development in any economy. Most important and immediate consequences of environmental degradation in the world take the form of damage to human health.",
+        "img": "https://i.ibb.co/0Cg1X8k/pexels-derek-finch-9551731-300x300.jpg",
+        "price": 700
+    },
+    {
+        "id": 3,
+        "name": "Outdoor Checkup",  
+        "description": "Human health is one of the most important factors influencing economic development in any economy. Most important and immediate consequences of environmental degradation in the world take the form of damage to human health.",
+        "img": "https://i.ibb.co/9N4TKPg/pexels-doterra-international-llc-5734905-300x300.jpg",
+        "price": 500
+
+    },
+    {
+        "id": 4,
+        "name": "Cancer Service",
+        "description": "Human health is one of the most important factors influencing economic development in any economy. Most important and immediate consequences of environmental degradation in the world take the form of damage to human health.",
+        "img": "https://i.ibb.co/qdX09KT/pexels-piyapong-sayduang-4541395-300x300.jpg",
+        "price": 1000
+
+    },
+    {
+        "id": 5,
+        "name": "Pharmacy",
+        "description": "Human health is one of the most important factors influencing economic development in any economy. Most important and immediate consequences of environmental degradation in the world take the form of damage to human health.",
+        "img": "https://i.ibb.co/3TrhycK/pexels-piyapong-sayduang-4541397-300x300.jpg",
+        "price": 400
+
+    },
+    {
+        "id": 6,
+        "name": "24/7 Online Support",
+        "description": "Human health is one of the most important factors influencing economic development in any economy. Most important and immediate consequences of environmental degradation in the world take the form of damage to human health.",
+        "img": "https://i.ibb.co/9wFBJH1/pexels-yan-krukov-8436729-300x300.jpg",
+        "price": 500
+
+    }
+]

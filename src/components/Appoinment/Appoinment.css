@@ -1,0 +1,7 @@
+.appoinment-background-image {
+ 
+    background-image: url("../../images/appoinmentbg.jpg"), linear-gradient(darkgray, gray);
+    padding: 50px 0 50px 0;
+    height: 400px;
+    background-size: 100% 
+}

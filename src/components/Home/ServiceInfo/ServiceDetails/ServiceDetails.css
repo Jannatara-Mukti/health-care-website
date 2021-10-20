@@ -1,0 +1,12 @@
+.service-background-image {
+ 
+    background-image: url("../../../../images/servicebg.jpg") no-repeat, linear-gradient(darkgray, gray);
+    padding: 50px 0 50px 0;
+    height: 400px;
+    background-size: 100% 
+}
+
+.big-font{
+      font-size: 24px;
+}
+  
